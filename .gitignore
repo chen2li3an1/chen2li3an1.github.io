@@ -5,7 +5,7 @@ venv/
 *.DS_Store
 
 # WCA export (too large for Github)
-WCA_export/
+WCA_export*
 
 # todo list 
 todo.txt
